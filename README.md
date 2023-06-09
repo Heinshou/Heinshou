@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/heinshou" target="blank"><img src="https://img.shields.io/twitter/follow/heinshou?logo=twitter&style=for-the-badge" alt="heinshou" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** and **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://mike-dev.netlify.app/](https://mike-dev.netlify.app/)
 
